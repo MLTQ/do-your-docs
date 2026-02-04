@@ -1,9 +1,9 @@
 ---
-name: modular-docs
+name: do-your-docs
 description: Aggressive code modularization with companion documentation. Use when working on any codebase where maintainability matters. Triggers on code creation, modification, refactoring, or when asked about code organization. Every code file gets a companion .md file documenting intent, rationale, and contracts. Review docs before touching code; update docs after every change.
 ---
 
-# Modular Docs
+# Do Your Docs
 
 Maintain aggressive modularity and companion documentation for every code file.
 
